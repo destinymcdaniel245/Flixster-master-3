@@ -2,7 +2,7 @@
 //  MoviesViewController.swift
 //  flixster
 //
-//  Created by Steven
+//  Created by Destiny McDaniel
 //  Copyright © 2019. All rights reserved.
 //
 
